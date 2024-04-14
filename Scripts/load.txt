@@ -1,0 +1,6 @@
+if game.PlaceId == 16828215247 then
+print("Loading RNG Rollers") 
+
+elseif game.PlaceId == 16524008257 then
+print("False")
+end
