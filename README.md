@@ -1,0 +1,2 @@
+Supported games:
+RNG Rollers 🎲
