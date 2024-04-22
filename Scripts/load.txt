@@ -1,7 +1,8 @@
 if game.PlaceId == 16828215247 then
 print("Loading RNG Rollers") 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ImPocky/PockyHub/main/Scripts/Games/RngRollers.lua"))()
-
+elseif game.PlaceId == 10033487652 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ImPocky/PockyHub/main/Scripts/Games/Clicker%20League.lua"))()
 else
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ImPocky/PockyHub/main/Scripts/Games/DefaultHub.lua"))()
 end
