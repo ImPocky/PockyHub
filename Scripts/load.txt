@@ -1,3 +1,12 @@
+local Module = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Discord%20Inviter/Source.lua"))()
+
+Module.Prompt({
+    invite = "discord.gg/Xdc8nHMs6P", -- required
+    name = "BloxHub" -- optional
+})
+
+wait(3)
+
 if game.PlaceId == 16828215247 then
 print("Loading RNG Rollers") 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ImPocky/PockyHub/main/Scripts/Games/RngRollers.lua"))()
