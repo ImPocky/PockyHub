@@ -1,3 +1,4 @@
 # Supported games:
-RNG Rollers 🎲
-Clicker League 🖱
+
+* RNG Rollers 🎲
+* Clicker League 🖱
