@@ -1,5 +1,5 @@
--- Brand new hub | Comes with a universal Hub (Not much in it)
 -- Supported Games:
 -- RNG Rollers 🎲
+-- Clicker League
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ImPocky/PockyHub/main/Scripts/load.txt"))()
