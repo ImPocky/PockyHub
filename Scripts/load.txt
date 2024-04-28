@@ -1,4 +1,4 @@
-local Module = loadstring(game:HttpGet("https://raw.githubusercontent.com/ImPocky/PockyHub/main/Scripts/DiscordPromptModule.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ImPocky/PockyHub/main/Scripts/DiscordPromptModule.lua"))()
 
 if game.PlaceId == 16828215247 then
 print("Loading RNG Rollers") 
