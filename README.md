@@ -4,3 +4,4 @@
 * Clicker League 🖱
 * Epic Tappers 👆
 * Chicken Tycoon 🐣
+* Legends Of Speed 🏃‍♂️
