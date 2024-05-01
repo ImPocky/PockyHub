@@ -11,6 +11,8 @@ print("Loading Epic Tappers")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ImPocky/PockyHub/main/Scripts/Games/EpicTappers.lua"))()
 elseif game.PlaceId == 13801782542 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ImPocky/PockyHub/main/Scripts/Games/ChickenTycoon.lua"))()
+elseif game.PlaceId == 3101667897 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ImPocky/PockyHub/main/Scripts/Games/LegendsOfSpeed"))()
 else
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ImPocky/PockyHub/main/Scripts/Games/DefaultHub.lua"))()
 end
