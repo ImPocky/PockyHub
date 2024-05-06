@@ -1,6 +1,6 @@
 
 local Settings = {
-            InviteCode = "Xdc8nHMs6P" -- the code at the end of the invite here
+            InviteCode = "9FygKcc4s7" -- the code at the end of the invite here
         }
         
         -- Objects
