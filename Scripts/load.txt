@@ -19,6 +19,5 @@ elseif game.PlaceId == 3956818381 then
   print("Loading Ninja Legends")
   loadstring(game:HttpGet("https://raw.githubusercontent.com/ImPocky/PockyHub/main/Scripts/Games/NinjaLegends"))()
 else
-  print("Loading Default")
   loadstring(game:HttpGet("https://raw.githubusercontent.com/ImPocky/PockyHub/main/Scripts/Games/DefaultHub.lua"))()
 end
